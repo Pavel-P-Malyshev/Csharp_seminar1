@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\Task003_MapWeekday.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\Task003_MapWeekday.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\Task003_MapWeekday.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\Task003_MapWeekday.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\Task003_MapWeekday.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\bin\Debug\net6.0\Task003_MapWeekday.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\bin\Debug\net6.0\Task003_MapWeekday.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\bin\Debug\net6.0\Task003_MapWeekday.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\bin\Debug\net6.0\Task003_MapWeekday.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\bin\Debug\net6.0\Task003_MapWeekday.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\Task003_MapWeekday.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\refint\Task003_MapWeekday.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\Task003_MapWeekday.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\Task003_MapWeekday.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task003_MapWeekday\obj\Debug\net6.0\ref\Task003_MapWeekday.dll
