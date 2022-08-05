@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\bin\Debug\net6.0\Task001_square.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\bin\Debug\net6.0\Task001_square.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\bin\Debug\net6.0\Task001_square.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\bin\Debug\net6.0\Task001_square.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\bin\Debug\net6.0\Task001_square.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\Task001_square.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\Task001_square.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\Task001_square.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\Task001_square.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\Task001_square.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\Task001_square.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\refint\Task001_square.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\Task001_square.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\Task001_square.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task001_square\obj\Debug\net6.0\ref\Task001_square.dll
