@@ -10,4 +10,3 @@ int N = int.Parse(Console.ReadLine()); //преобразование строк
 
 Console.Write($"Square of your number is:{N*N}");
 
-
