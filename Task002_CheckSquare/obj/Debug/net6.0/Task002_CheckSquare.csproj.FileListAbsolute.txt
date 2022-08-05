@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\bin\Debug\net6.0\Task002_CheckSquare.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\bin\Debug\net6.0\Task002_CheckSquare.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\bin\Debug\net6.0\Task002_CheckSquare.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\bin\Debug\net6.0\Task002_CheckSquare.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\bin\Debug\net6.0\Task002_CheckSquare.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\Task002_CheckSquare.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\Task002_CheckSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\Task002_CheckSquare.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\Task002_CheckSquare.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\Task002_CheckSquare.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\Task002_CheckSquare.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\refint\Task002_CheckSquare.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\Task002_CheckSquare.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\Task002_CheckSquare.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.1 - знакомство с C sharp(C#)\Seminar 4.1\Task002_CheckSquare\obj\Debug\net6.0\ref\Task002_CheckSquare.dll
